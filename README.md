@@ -63,6 +63,9 @@ The analysis was conducted on data from Jan 1, 2024 to December 21, 2024 (Report
 
 ## Recommendations 
 1. The data shows South America's potential as the primary driver of net revenue and transaction volume. To maintain and expand this leadership, a more nuanced, "in-market" approach is necessary. Research and integrate payment methods popular in Brazil and other key South American countries (e.g., real-time payment systems like PIX in Brazil). This can significantly reduce payment friction and increase conversion rates.
+   
 2. The data indicates that North America accounts for the largest processed amount, signaling a high average transaction value. This presents a prime opportunity to build a more profitable client base without necessarily chasing high transaction volume. Shift focus in North America from broad-based acquisition to a targeted strategy for high-value business clients.
+   
 3. Create tailored product solutions and marketing campaigns for highest-performing sectors: Retail, Consulting, and Clothing, and for the high-growth Restaurants category.
-4. The consistent performance from May to November suggests that a proactive strategy can maximize this period, while an understanding of the slower months allows for resource optimization. For example, launch targeted marketing and sales campaigns in late Q1 and early Q2 to capture new clients ahead of the busy season.
+   
+4. The consistent performance from May to November suggests that a proactive strategy can maximize this period, while an understanding of the slower months allows for resource optimization. For example, launching targeted marketing and sales campaigns in late Q1 and early Q2 may capture new clients ahead of the busy season.
