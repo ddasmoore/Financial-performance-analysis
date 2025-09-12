@@ -53,13 +53,13 @@ The analysis was conducted on data from Jan 1, 2024 to December 21, 2024 (Report
 
 1. In the last month, between November 21 and December 21, the company processed a total of $314.5 billion across 237.1 million transactions, generating $77.1 million in net revenue.
 
-2. Net revenue showed a positive month-over-month trend of 15.3%. The period from May to November was particularly strong, with net revenue consistently exceeding $85K each month.
+2. Net revenue showed a positive month-over-month (MoM) trend of 15.3%. The period from May (net revenue: $91,189K, +16% increase MoM)  to November (Net revnue: $94,633K, -.04% change MoM) was particularly strong, with net revenue consistently exceeding $85K each month.
 
-3. South America contributed the largest share of net revenue, followed by North America and Europe. Notably, Brazil was the top-performing country in net revenue month-over-month.
+4. South America contributed the largest share of net revenue, followed by North America and Europe. Notably, Brazil was the top-performing country in net revenue month-over-month, exceeding $41K every month in net revenue between January and November.
 
-4. South America consistently led in transaction volume and net revenue. By contrast, North America generated a larger processed amount, indicating a higher average transaction value in that region. The only exception was January when Brazil also led in processed amount. 
+5. South America consistently led in transaction volume and net revenue. By contrast, North America generated a larger processed amount, indicating a higher average transaction value in that region. The only exception was January when Brazil also led in processed amount. 
 
-5. The Retail, Consulting, and Clothing sectors were the main drivers of net revenue. While Retail, Restaurants, and Transportation consistently led in transaction volume throughout the year, processed amount from the Restaurant category surpassed that of Consulting in the second half of the year (starting in June).
+6. The Retail, Consulting, and Clothing sectors were the main drivers of net revenue. While Retail, Restaurants, and Transportation consistently led in transaction volume throughout the year, processed amount from the Restaurant category surpassed that of Consulting in the second half of the year (starting in June).
 
 ## Recommendations 
 1. The data shows South America's potential as the primary driver of net revenue and transaction volume. To maintain and expand this leadership, a more nuanced, "in-market" approach is necessary. Research and integrate payment methods popular in Brazil and other key South American countries (e.g., real-time payment systems like PIX in Brazil). This can significantly reduce payment friction and increase conversion rates.
